@@ -13,4 +13,4 @@ message.channel.send('halo juga :D');
 }
 });
 
-client.login('NzIyMjk2NDk2Nzc0NzA5Mjc5.Xvbg1A.MsHI34UmtepbTNTU2hxVla1i9Ek');
+client.login('');
